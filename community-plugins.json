@@ -29223,5 +29223,12 @@
     "author": "telehakke",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Display images or note on floating panel.",
     "repo": "telehakke/fluorite"
-  }
+  },
+{
+  "id": "luna-notes",
+  "name": "Luna Notes",
+  "author": "MaiaALex",
+  "description": "Feminine cycle planner for Obsidian with cycle tracking, analytics, dashboard and phase intelligence.",
+  "repo": "MaiaALex/luna-notes"
+}
 ]
